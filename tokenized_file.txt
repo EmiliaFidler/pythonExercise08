@@ -1,0 +1,12 @@
+My        PRON      poss      
+name      NOUN      nsubj     
+is        AUX       ROOT      
+Emilia    PROPN     attr      
+and       CCONJ     cc        
+you       PRON      nsubj     
+are       AUX       aux       
+watching  VERB      conj      
+the       DET       det       
+Disney    PROPN     compound  
+Channel   PROPN     dobj      
+.         PUNCT     punct     
